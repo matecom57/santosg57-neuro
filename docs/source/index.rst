@@ -19,4 +19,5 @@ Contents
 .. toctree::
 
    usage
+   Imagenes/imagenes
    api
