@@ -21,12 +21,12 @@ Imagen 04
 
 Imagen 05
 
-.. image:: im001.jpg
+.. image:: im001.jpeg
 
 Imagen 06
 
-.. image:: im002.jpg
+.. image:: im002.jpeg
 
 Imagen 07
 
-.. image:: im003.jpg
+.. image:: im003.jpeg
