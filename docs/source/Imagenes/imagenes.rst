@@ -30,3 +30,9 @@ Imagen 06
 Imagen 07
 
 .. image:: im003.jpg
+
+Imagen08
+
+.. image:: im008.png
+
+
