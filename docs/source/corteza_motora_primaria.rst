@@ -1,3 +1,6 @@
+corteza motora primaria
+=======================
+
 La corteza motora primaria (M1) es la región del cerebro responsable de iniciar los movimientos voluntarios, situada en el giro precentral del lóbulo frontal. Recibe información de otras áreas del cerebro para controlar la ejecución de movimientos precisos y envía señales a los músculos a través de las motoneuronas para su contracción. Es crucial para la coordinación motora, la fuerza, la precisión y el aprendizaje motor. 
 Ubicación y estructura
 

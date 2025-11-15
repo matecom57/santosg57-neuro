@@ -19,5 +19,7 @@ Contents
 .. toctree::
 
    usage
+   giro_precentral
+   corteza_motora_primaria
    Imagenes/imagenes
    api
