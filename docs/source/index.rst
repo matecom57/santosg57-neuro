@@ -22,4 +22,21 @@ Contents
    giro_precentral
    corteza_motora_primaria
    Imagenes/imagenes
-   api
+   PUBMED/MRtrix3/c01
+   PUBMED/Psychology/abstract-Psychology-2026
+   PUBMED/abstract-DiffusionT-set
+   PUBMED/abstract-Lotka-Volt-set
+   PUBMED/abstract-RaspberryP-set
+   PUBMED/abstract-afniTitleA-set
+   PUBMED/abstract-arduinoTit-set
+   PUBMED/abstract-artificial-set
+   PUBMED/abstract-connTitleA-set
+   PUBMED/abstract-emotionali-set
+   PUBMED/abstract-fmriTitleA-set
+   PUBMED/abstract-freesurfer-set
+   PUBMED/abstract-giftedTitl-set
+   PUBMED/abstract-parkinsonT-set
+   PUBMED/abstract-twinsTitle-set
+   PUBMED/dynamic_systems/abstract-dynamicsys
+
+
